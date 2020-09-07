@@ -26,10 +26,7 @@
   justify-content: space-between;
   color: rgba(0, 0, 0, 0.5);
 }
-.recommended-friends span {
-  margin: 100px 0px;
-  display: block;
-  text-align: center;
-  font-size: 18px;
-  color: rgba(0, 0, 0, 0.5);
+.user-component__subtitle i {
+  color: tomato;
+  margin-left: 5px;
 }
